@@ -1,0 +1,15 @@
+{
+  "name": "wechat",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   
+  },
+  "dependencies": {
+    "wx_jssdk": "//res.wx.qq.com/open/js/jweixin-1.6.0.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
